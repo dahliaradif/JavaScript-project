@@ -1,0 +1,16 @@
+A JavaScript program that allows users to click and drag to create circles, and fits an optimal circle based on user selected gridpoints. 
+
+Getting started:
+1. Run main.html in a suitable browser, e.g. Google Chrome
+2. Click 'Part 1' for the click and drag circle functionality. NOTE: This will hide the Generate button.
+3. Click 'Part 2' for fitting an optimal circle based on selected points.
+4. Click 'Reset' once 'Part 1' or 'Part 2' have been clicked to repeat the same functionality, 
+	e.g. redraw a circle, or reselect points. 
+5. Click reset before switching to Part 1 or Part 2. 
+6. Clicking the 'Part 1' or 'Part 2' buttons will automatically reset the page so that the two functionalities 
+	do not overlap. 
+
+The code was extensively tested by dragging and drawing in different directions and different center coordinates. 
+The 'generate' button was also tested by continously resetting and selecting different points and observing the fit circle.  
+
+
